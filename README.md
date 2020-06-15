@@ -26,7 +26,7 @@
 - 챗봇 동작 이미지
 
   - 텔레그램
-    - ![telegram](./telegram.png)
+    - <img src="./telegram.png" alt="telegram" style="zoom:50%;" />
 
   - 라인 
     - <img src="./line.png" alt="line" style="zoom:50%;" />
