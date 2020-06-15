@@ -26,7 +26,7 @@
 - 챗봇 동작 이미지
 
   - 텔레그램
-    - ![telegram](./telegram.png){: width="100" height="100"}
+    - ![telegram](./telegram.png){:width="100" height="100"}
 
   - 라인 
-    - ![line](./line.png){: width="100" height="100"}
+    - ![line](./line.png){:width="100" height="100"}
